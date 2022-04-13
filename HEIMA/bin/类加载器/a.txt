@@ -1,0 +1,2 @@
+className=类加载器.Student1
+methodName=study
